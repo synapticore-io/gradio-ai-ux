@@ -24,7 +24,7 @@
 		"@gradio/image": "npm:@gradio/image@0.23.1",
 		"@gradio/dataframe-npm": "npm:@gradio/dataframe@0.20.1",
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
-		"svelte": "4",
+		"svelte": "5",
 		"vite": "^5.4.21"
 	},
 	"exports": {
